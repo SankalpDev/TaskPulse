@@ -6,6 +6,13 @@ TaskPulse is a full-stack web application that allows users to **schedule, execu
 
 👉 [https://taskpulse-jdh4.onrender.com](https://taskpulse-jdh4.onrender.com)
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1e4ffe37-85fc-402d-ace1-2ddb13f051ad" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a69844b0-98ed-4c13-b492-d0d1671d27d4" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2f213267-5c69-437f-a21e-6565b5988302" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ce3a5dd6-564e-4d11-87ac-5a397ce7c6a7" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ad6e1321-89f0-45ff-9cf0-eda0bc2454b6" />
+
+
 ---
 
 ## 📑 Table of Contents
