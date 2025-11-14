@@ -124,7 +124,7 @@ npm install
 Create a `.env` file:
 
 ```
-ATLASDB_URL=mongodb+srv://your_user:your_pass@cluster.mongodb.net/jobSchedulerDB
+ATLASDB_URL=mongodb+srv://<your_user>:<your_pass>@cluster.mongodb.net/jobSchedulerDB
 JWT_SECRET=your_jwt_secret
 SESSION_SECRET=your_session_secret
 ```
